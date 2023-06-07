@@ -138,6 +138,7 @@ Write down the code for book cover using HTML and CSS.
 ```
 
 ## Output:
+![image](https://github.com/Sachin-vlr/cover-page-design/assets/113497666/a7548312-1ec0-4614-a974-ae600b2dfd09)
 
 
 ## Result:
